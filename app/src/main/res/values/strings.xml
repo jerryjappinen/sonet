@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Sonet</string>
+    <string name="more">More</string>
+    <string name="move_to_more">Move to More</string>
+    <string name="move_out_of_more">Move out of More</string>
+    <string name="app_info">App info</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="open_camera">Open camera</string>
+    <string name="open_wallet">Open wallet</string>
+    <string name="no_camera">No camera app found</string>
+    <string name="no_wallet">No wallet app found</string>
+    <string name="add_to_group">Add to group…</string>
+    <string name="move_to_group">Move to group…</string>
+    <string name="remove_from_group">Remove from group</string>
+    <string name="new_group">New group…</string>
+    <string name="new_group_title">Name group</string>
+    <string name="rename_group_title">Rename group</string>
+    <string name="group_name">Group name</string>
+    <string name="rename">Rename</string>
+    <string name="ungroup">Ungroup</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="choose_group">Choose group</string>
 </resources>
